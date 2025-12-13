@@ -1,3 +1,12 @@
+<h2 align="center">👋 Welcome! I'm Avanti Thakre</h2>
+
+<p align="center">
+  🚀 Aspiring <b>Data Scientist</b> | 🤖 AI & ML Explorer
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhuvan-Patil-24&label=Visitors&color=blueviolet" />
+</p>
 ## 👋 About Me:
 
 🎓 I’m currently pursuing my B.Tech from  **S.B. Jain Institute of Technology, Management & Research, Nagpur**
