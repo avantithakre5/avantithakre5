@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhuvan-Patil-24&label=Visitors&color=blueviolet" />
+  <img src="https://github.com/avantithakre5" />
 </p>
 ## 👋 About Me:
 
