@@ -3,10 +3,6 @@
 <p align="center">
   🚀 Aspiring <b>Data Scientist</b> | 🤖 AI & ML Explorer
 </p>
-
-<p align="center">
-  <img src="https://github.com/avantithakre5" />
-</p>
 ## 👋 About Me:
 
 🎓 I’m currently pursuing my B.Tech from  **S.B. Jain Institute of Technology, Management & Research, Nagpur**
