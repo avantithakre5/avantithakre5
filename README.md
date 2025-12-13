@@ -1,7 +1,6 @@
 ## 👋 About Me:
 
-🎓 I’m currently pursuing my B.Tech from  
-**S.B. Jain Institute of Technology, Management & Research, Nagpur**
+🎓 I’m currently pursuing my B.Tech from  **S.B. Jain Institute of Technology, Management & Research, Nagpur**
 
 🌱 I’m currently learning **Machine Learning & Data Science**
 
