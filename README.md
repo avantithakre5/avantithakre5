@@ -61,13 +61,4 @@
 ### ☁️ Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avantithakre5&show_icons=true&theme=dark&hide_border=true" height="180"/>
-</p>
-
-
-
----
 
